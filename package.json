@@ -1,0 +1,22 @@
+{
+  "name": "apple-timestamp-api",
+  "version": "1.0.0",
+  "description": "API for unix to natural time conversion",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaybhatia10/Timestamp-Microservice-API.git"
+  },
+  "author": "akshaybhatia10@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaybhatia10/Timestamp-Microservice-API/issues"
+  },
+  "homepage": "https://github.com/akshaybhatia10/Timestamp-Microservice-API#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
