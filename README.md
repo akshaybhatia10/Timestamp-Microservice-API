@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Author
 akshaybhatia10 
 
@@ -23,6 +22,3 @@ https://.herokuapp.com/1450137600
 ```json
 { "unix": 1450137600, "natural": "December 15, 2015" }
 ```
-=======
-# Timestamp-Microservice-API
->>>>>>> ee7d014e6503d83f325694626b47ef94c89ea49b
