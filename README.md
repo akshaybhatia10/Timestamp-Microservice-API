@@ -13,8 +13,8 @@ akshaybhatia10
 ## Example usage:
 
 ```url
-https://.herokuapp.com/December%2015,%202015
-https://.herokuapp.com/1450137600
+https://unix2natural-microservice-api.herokuapp.com/December%2015,%202015
+https://unix2natural-microservice-api.herokuapp.com/1450137600
 ```
 
 ## Example output:
